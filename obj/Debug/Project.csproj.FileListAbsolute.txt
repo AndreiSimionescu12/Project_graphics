@@ -1,0 +1,69 @@
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\assets\Trianglee.txt
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\assets\lowpolytree.obj
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\assets\Cub.txt
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\Project.exe.config
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\Project.exe
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\Project.pdb
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.dll
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.GLControl.dll
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.pdb
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.xml
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.GLControl.pdb
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\bin\Debug\OpenTK.GLControl.xml
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\obj\Debug\Project.csproj.CopyComplete
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\obj\Debug\Project.exe
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\obj\Debug\Project.pdb
+G:\Fackultate\anu TREI\EGC\Lab_02\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\assets\lowpolytree.obj
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\assets\Cub.txt
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\Project.exe.config
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\Project.exe
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\Project.pdb
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.dll
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.GLControl.dll
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.pdb
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.xml
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.GLControl.pdb
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\OpenTK.GLControl.xml
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\obj\Debug\Project.csprojAssemblyReference.cache
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\obj\Debug\Project.csproj.CopyComplete
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\obj\Debug\Project.exe
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\obj\Debug\Project.pdb
+G:\Fackultate\anu TREI\EGC\TEME\Lab_03\Project\bin\Debug\assets\Triangle.txt
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\assets\Triangle.txt
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\assets\lowpolytree.obj
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\assets\Cub.txt
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\Project.exe.config
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\Project.exe
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\Project.pdb
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.dll
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.pdb
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.xml
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.exe
+C:\Users\Vlad\Desktop\PROIECT EGC\Project\obj\Debug\Project.pdb
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\assets\Triangle.txt
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\assets\lowpolytree.obj
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\assets\Cub.txt
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\Project.exe.config
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\Project.exe
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\Project.pdb
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.dll
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.pdb
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.xml
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\obj\Debug\Project.exe
+C:\Users\Vlad\Desktop\FACULTATE\an 4\PROIECT EGC\Project\obj\Debug\Project.pdb
